@@ -18,7 +18,7 @@
     "jquery": "^3.5.1",
     "js-cookie": "^2.2.1",
     "lib-flexible": "^0.3.2",
-    "qs": "^6.9.4",
+    "qs": "^6.9.7",
     "three-css2drender": "^1.0.0",
     "three-obj-mtl-loader": "^1.0.3",
     "three-orbit-controls": "^82.1.0",
